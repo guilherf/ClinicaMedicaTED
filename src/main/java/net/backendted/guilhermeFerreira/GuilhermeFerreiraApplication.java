@@ -1,0 +1,12 @@
+package net.backendted.guilhermeFerreira;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GuilhermeFerreiraApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(GuilhermeFerreiraApplication.class, args);
+    }
+}
